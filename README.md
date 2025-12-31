@@ -1,5 +1,5 @@
 
-# Octagon analysis - Machine Learning With UFC Data (CMPT353 Project)
+# Octagon analysis - Machine Learning With UFC Data 
 
 
 # Introduction ✏️
